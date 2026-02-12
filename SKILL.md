@@ -1,12 +1,10 @@
 ---
 name: self-inquiry-practice
-description: A complete methodology for Self-realization through investigation of
-  the "I"-thought, derived from Ramana Maharshi's direct teaching of Atma Vichara
-  (Self-inquiry).
+description: A complete methodology for Self-realization through investigation of the "I"-thought, derived from Ramana Maharshi's direct teaching of Atma Vichara (Self-inquiry).
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - self-inquiry-practice
 - writing
@@ -269,4 +267,3 @@ Derived from Ramana Maharshi's "Who Am I?" (Nan Yar?), "Self-Enquiry" (Vicharasa
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
